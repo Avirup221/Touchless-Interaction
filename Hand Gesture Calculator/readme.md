@@ -56,14 +56,3 @@ This project implements a hand gesture-based calculator using OpenCV and MediaPi
 
 -   `hand_calculator.py`: Contains the main `HandCalculator` class and the application's logic.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
-## Author
-
-Jaya Bharath Reddy Iska
-
-## Hashtags
-
-\#TouchlessTechnology \#HandTracking \#Codinglife \#MediaPipe \#Python \#OpenCV \#ComputerVision \#GestureControl \#ArtificialIntelligence \#AI \#MachineLearning \#ML \#DeepLearning \#NeuralNetworks \#Tech \#Technology \#Code \#Programmer \#Programming \#PythonProjects \#SoftwareDeveloper \#SoftwareEngineer \#Development \#Engineering \#RealTimeTracking \#InteractiveTech \#Innovation \#TechForGood \#DataScience \#ComputerScience \#LinkedIn \#AICommunity \#FutureofLearning
