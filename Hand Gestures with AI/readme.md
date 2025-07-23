@@ -46,11 +46,8 @@ This project enables users to **solve math problems** and **recognize shapes** u
 3. **AI generates an output**, solving math problems or recognizing the drawn shape.
 4. **Use a five-finger gesture** to reset the canvas and answer.
 
-## 📢 Contributing
-Want to improve this project? Feel free to fork, submit PRs, or suggest new features!
 
-## 🔗 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/jaya-bharath-reddy-iska-7a3844210/) | [GitHub](https://github.com/bharathreddy18/)
+
 
 ## 🏷️ Hashtags
 #AI #MachineLearning #ComputerVision #GestureRecognition #DeepLearning #Python #Technology #HandTracking #AIAutomation #TechForGood #DataScience #GestureBasedInteraction #AIInnovation #HumanComputerInteraction #SmartEducation #FutureTech #Robotics #MathAI #ShapeRecognition #DigitalTransformation
