@@ -87,13 +87,3 @@ This project demonstrates a **basic version** of this concept using a webcam!
 
 ---
 
-## 📜 License  
-
-This project is **open-source** under the **MIT License**.
-
----
-
-## 🏷️ Hashtags  
-
-`#ComputerVision #OpenCV #HandTracking #AI #MachineLearning #GestureControl #Python #DeepLearning #Automation #Innovation #HCI #Mediapipe #Pycaw #GestureRecognition`
-
