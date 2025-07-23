@@ -49,6 +49,4 @@ This project enables users to **solve math problems** and **recognize shapes** u
 
 
 
-## 🏷️ Hashtags
-#AI #MachineLearning #ComputerVision #GestureRecognition #DeepLearning #Python #Technology #HandTracking #AIAutomation #TechForGood #DataScience #GestureBasedInteraction #AIInnovation #HumanComputerInteraction #SmartEducation #FutureTech #Robotics #MathAI #ShapeRecognition #DigitalTransformation
 
