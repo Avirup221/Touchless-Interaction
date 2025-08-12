@@ -2,6 +2,6 @@
 This repository showcases a collection of computer vision projects, demonstrating various techniques and applications.
 
 ## Projects
-Hand Gesture Calculator:
-Gesture Volume Control:
+Hand Gesture Calculator
+Gesture Volume Control
 Hand Gesture with AI
